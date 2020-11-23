@@ -1,0 +1,44 @@
+:root {
+  --color-primary: #141414;
+  --color-secundary: #e50941;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Times New Roman', Times, serif;
+
+  background: var(--color-primary);
+}
+
+header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+header .logo {
+  margin-left: 5px;
+
+  font: 700 40px Arial;
+
+  color: var(--color-secundary);
+}
+
+header nav a {
+  margin-right: 10px;
+
+  text-decoration: none;
+  
+  color: #aaa;
+}
+
+header nav a:hover {
+  color: #fff;
+}
