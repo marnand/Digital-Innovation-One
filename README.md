@@ -1,2 +1,2 @@
 # Digital-Innovation-One
-Exercícios realizados no site durante os bootcamps
+Desafios e códigos desenvolvidos com acompanhamento do ministrante dos cursos e bootcamps
